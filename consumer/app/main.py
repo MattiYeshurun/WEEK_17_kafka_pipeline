@@ -1,0 +1,4 @@
+from consumer.app.mysql_connection import run_consumer
+
+if __name__ == "__main__":
+    run_consumer()
